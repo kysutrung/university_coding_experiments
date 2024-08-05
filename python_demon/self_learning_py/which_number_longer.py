@@ -2,8 +2,7 @@
 Yêu cầu: Viết hàm tim_so_dai_nhat(list_a) để tìm số có nhiều chữ số
 nhất trong danh sách các số nguyên list_a."""
 
-list_b = [1, 'aaaaaaaaaaa', 23, 6542, 828262]
-
+list_b = [1, 'aaaaa', 23, 6542, 828262]
 def tim_so_dai_hon (list_a):
     max_val = 0
     max_index = 0
