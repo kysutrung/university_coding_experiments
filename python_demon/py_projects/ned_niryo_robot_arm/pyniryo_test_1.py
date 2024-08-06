@@ -10,7 +10,7 @@ for i in range(0,3):
     robot.move_joints(0.5, 0.0, 0.0, 0.0, 0.0, 0.0)
     robot.move_joints(0.0, 0.5, 0.0, 0.0, 0.0, 0.0)
     robot.move_joints(-0.5, 0.0, 0.0, 0.0, 0.0, 0.0)
-#robot.move_pose(0.21, 0, 0.4, 0, 1.57, 0) #vị trí quan sát bàn gắp
+robot.move_pose(0.21, 0, 0.4, 0, 1.57, 0) #vị trí quan sát bàn gắp
 robot.move_joints(-0.002, 0.493, -1.327, 0.011, -0.089, -0.007) #vị trí nghỉ đẹp
 robot.wait(3)
 
