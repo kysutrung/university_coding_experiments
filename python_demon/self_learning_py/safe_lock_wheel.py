@@ -2,7 +2,7 @@
 Yêu cầu: Viết hàm xoay_vong_danh_sach(list_a, k) để xoay vòng 
 danh sách list_a sang phải k vị trí."""
 
-list_a = [1, 2, 3, 4, 5, 6, 7, 8]
+list_a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 
 def xoay_volume(list_b, num):
     list_e = [None]*len(list_a)
