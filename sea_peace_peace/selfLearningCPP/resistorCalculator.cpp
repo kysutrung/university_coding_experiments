@@ -1,0 +1,1 @@
+//chương trình tính giá trị điện trở theo dữ liệu màu tương ứng vòng nhập vào
