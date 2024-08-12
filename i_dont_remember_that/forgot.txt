@@ -1,0 +1,48 @@
+//Lệnh Git Cơ Bản
+
+git init
+Tạo một repository Git mới trong thư mục hiện tại.
+
+git clone <url>
+Tạo một bản sao của repository từ một URL trên remote repository.
+
+git status
+Hiển thị trạng thái của các file trong thư mục làm việc và index (staging area).
+
+git add <file>
+Thêm các thay đổi từ file hoặc thư mục vào index chuẩn bị cho commit.
+
+git commit -m "<message>"
+Ghi các thay đổi từ index vào repository với một thông điệp commit.
+
+git push origin <branch>
+Đẩy các commit từ nhánh hiện tại lên remote repository.
+
+git pull origin <branch>
+Kéo các thay đổi từ remote repository về nhánh hiện tại.
+
+git fetch origin
+Tải các thay đổi từ remote repository về mà không hợp nhất chúng vào nhánh hiện tại.
+
+git merge <branch>
+Hợp nhất các thay đổi từ một nhánh khác vào nhánh hiện tại.
+
+git branch
+Hiển thị danh sách các nhánh trong repository.
+Thêm tên nhánh để tạo mới: git branch <branch-name>.
+
+git checkout <branch>
+Chuyển sang một nhánh khác.
+
+git rebase <branch>
+Áp dụng các commit của nhánh hiện tại lên đầu của nhánh <branch>.
+
+git log
+Hiển thị lịch sử commit của nhánh hiện tại.
+
+git diff
+Hiển thị các sự khác biệt giữa các commit hoặc giữa thư mục làm việc và index.
+
+git stash
+Lưu trữ tạm thời các thay đổi chưa commit để có thể làm việc trên các nhánh khác.
+Dùng git stash pop để khôi phục chúng.
