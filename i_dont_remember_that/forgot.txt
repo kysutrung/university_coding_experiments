@@ -3,6 +3,9 @@
 git init
 Tạo một repository Git mới trong thư mục hiện tại.
 
+git reset --hard <địa chỉ commit>
+Reset code về một thời điểm nào đấy, ctrl z tất cả và không lưu gì hết
+
 git clone <url>
 Tạo một bản sao của repository từ một URL trên remote repository.
 
