@@ -7,16 +7,30 @@ EN | The repository stored some coding articles and projects that Trung particip
 ## Table of Contents
 🌊 C/C++ Programing Language Projects
 
-> ● Some Fun Coding Practice
+&nbsp;&nbsp;&nbsp;&nbsp;● Coding Practices
 
-> ● Projects
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤡 Some Fun Command Line App 
 
->> 🔦 Adaptive LED Headlight
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☠️ Algorism Practice
 
->> 🧨 Timer Igniter For Fireworks
+&nbsp;&nbsp;&nbsp;&nbsp;● Projects
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔦 Adaptive LED Headlight
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧨 Timer Igniter For Fireworks
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔌 Arduino With Sensors
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 🐍 Python Programing Language
 
-> ● Coding Practices
+&nbsp;&nbsp;&nbsp;&nbsp;● Coding Practices
 
-> ● Projects
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗿 Sefl Learning
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😺 From Bro Code 
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Projects
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎥 YOLO Based Smart Surveillance Cameras 
