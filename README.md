@@ -33,4 +33,4 @@ EN | The repository stored some coding articles and projects that Trung particip
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎥 YOLO Based Smart Surveillance Cameras  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎥 YOLO Based Smart Surveillance Cameras(not completed) 
