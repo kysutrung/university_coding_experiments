@@ -34,15 +34,3 @@ EN | The repository stored some coding articles and projects that Trung particip
 &nbsp;&nbsp;&nbsp;&nbsp;● Projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎥 YOLO Based Smart Surveillance Cameras 
-
-
-
->> 🔦 Adaptive LED Headlight
-
->> 🧨 Timer Igniter For Fireworks
-
-🐍 Python Programing Language
-
-> ● Coding Practices
-
-> ● Projects
