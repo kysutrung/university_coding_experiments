@@ -37,4 +37,12 @@ EN | The repository stored some coding articles and projects that Trung particip
 
 
 
+>> 🔦 Adaptive LED Headlight
 
+>> 🧨 Timer Igniter For Fireworks
+
+🐍 Python Programing Language
+
+> ● Coding Practices
+
+> ● Projects
