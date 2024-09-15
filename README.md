@@ -15,7 +15,7 @@ EN | The repository stored some coding articles and projects that Trung particip
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔦 Adaptive LED Headlight
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔦 Adaptive LED Headlight For Car/Bike
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧨 Timer Igniter For Fireworks
 
