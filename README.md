@@ -33,6 +33,6 @@ EN | The repository stored some coding articles and projects that Trung particip
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎥 Multi Zones Safety Assistant Camera System(work in process)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🎥 Multi Zones Safety Assistant Camera System(work in process)](https://github.com/kysutrung/multi_zones_safety_assistant_camera)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛵 Non-Stop Parking Toll
