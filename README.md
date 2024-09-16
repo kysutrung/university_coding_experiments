@@ -17,7 +17,7 @@ EN | The repository stored some coding articles and links of projects that Trung
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🔦 Adaptive LED Headlight For Car/Bike](https://github.com/kysutrung/esp32_auto_adapt_headlight)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧨 Timer Igniter For Fireworks V1
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🧨 Timer Igniter For Fireworks v1.0](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_base_project/timer_firework_igniter)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔌 Arduino With Sensors
 
