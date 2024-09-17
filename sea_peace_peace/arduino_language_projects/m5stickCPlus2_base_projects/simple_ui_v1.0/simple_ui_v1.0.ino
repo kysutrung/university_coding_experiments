@@ -1,3 +1,5 @@
+//CHƯƠNG TRÌNH TẠO GIAO DIỆN ĐƠN GIẢN CHO ESP32 dựa trên một số hàm có sẵn của M5Stack
+
 #include "M5StickCPlus2.h"  // Đọc tài liệu để cài thư viện M5StickC Plus 2
 #include "DHT.h"            
  
