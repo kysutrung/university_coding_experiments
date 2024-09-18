@@ -17,8 +17,9 @@ void m5_dht11(){
   h = dht.readHumidity();    //Đọc độ ẩm
   t = dht.readTemperature(); //Đọc nhiệt độ
 
-  StickCP2.Display.fillScreen(BLACK);
   if(h_cuoi != h || t_cuoi != t){
+    StickCP2.Display.fillScreen(BLACK);
+
     StickCP2.Display.setCursor(20, 20);
     StickCP2.Display.setTextColor(YELLOW);
     StickCP2.Display.print("Tem      Hum");
