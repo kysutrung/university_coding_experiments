@@ -4,6 +4,7 @@
 
 int x = 0;
 int y = 0;
+int z = 0;
 
 void test_a(){
   if(x == 0){
@@ -11,7 +12,6 @@ void test_a(){
     StickCP2.Display.setCursor(20, 20);
     StickCP2.Display.print("Hehehe :)");
     x++;
-    y = 0;
   }
 }
 
@@ -21,9 +21,18 @@ void test_b(){
     StickCP2.Display.setCursor(20, 20);
     StickCP2.Display.print("Dit me may");
     y++;
-    x = 0;
   }
 }
+
+void test_c(){
+  if(z == 0){
+    StickCP2.Display.clear();
+    StickCP2.Display.setCursor(20, 20);
+    StickCP2.Display.print("DCM Le Xuan Hai");
+    z++;
+  }
+}
+
 
 int num_a = 0;
 int num_b = -1;
@@ -100,6 +109,9 @@ void luaChonMode(){
   if(StickCP2.BtnA.wasClicked()){
     num_a++;
     num_c = 0;
+    y = 0;
+    x = 0;
+    z = 0;
   }
 
   if(num_a == 4){
@@ -136,9 +148,15 @@ void luaChonMode(){
     }
   }
 
-  if(num_a == 1){
+  if(num_a == 0){
     if(num_c > 0){
       test_b();
+    }
+  }
+
+  if(num_a == 1){
+    if(num_c > 0){
+      test_c();
     }
   }
 
@@ -158,7 +176,7 @@ void setup() {
     // Đặt màu nền màn hình là màu đen
     StickCP2.Display.fillScreen(BLACK);
 
-    StickCP2.Display.setRotation(1);
+    StickCP2.Display.setRotation(3);
 
     StickCP2.Display.setTextSize(2);
 
