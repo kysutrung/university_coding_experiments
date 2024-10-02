@@ -15,11 +15,11 @@ EN | The repository stored some coding articles and links of projects that Trung
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🔦 Adaptive LED Headlight For Car/Bike](https://github.com/kysutrung/esp32_auto_adapt_headlight)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🔦 Adaptive LED Headlight For Car/Bike (computer vision)](https://github.com/kysutrung/esp32_auto_adapt_headlight)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🧨 Timer Igniter For Fireworks v1.0](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_base_project/timer_firework_igniter)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🧨 Timer Igniter For Fireworks v1.0](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_base_project/timer_firework_igniter) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔌 Arduino With Sensors
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔌 Simple Measurement Devices
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -33,6 +33,6 @@ EN | The repository stored some coding articles and links of projects that Trung
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🎥 Multi Zones Safety Assistant Camera System(work in process)](https://github.com/kysutrung/multi_zones_safety_assistant_camera)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🎥 Multi Zones Safety Assistant Camera System (computer vision)](https://github.com/kysutrung/yolo_watchdog)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛵 Non-Stop Parking Toll
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Human Searching Assistant Device For No Service Environments
