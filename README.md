@@ -1,6 +1,6 @@
 # 🏫 Trung's University Coding Experiments
 
-VN | Kho tổng hợp một số bài code và đường dẫn tới các dự án mà Trung đã từng tham gia trong khoảng thời gian học đại học của mình.
+VN | Kho tổng hợp một số bài code và đường dẫn tới các dự án mà Trung đã từng tham gia trong khoảng thời gian học đại học của Trung.
 
 EN | The repository stored some coding articles and links of projects that Trung participated in during his time in university.
 
@@ -17,7 +17,7 @@ EN | The repository stored some coding articles and links of projects that Trung
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🔦 Adaptive LED Headlight For Car/Bike (computer vision)](https://github.com/kysutrung/esp32_auto_adapt_headlight)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🧨 Timer Igniter For Fireworks v1.0](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_base_project/timer_firework_igniter) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🧨 Timer Igniter For Fireworks v1.0](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_language_projects/timer_firework_igniter) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔌 Simple Measurement Devices
 
