@@ -9,28 +9,34 @@ var(
 	str_a string = "meo meo"
 )
 
-func tinh_tong(n int, m int) int {
-	return n + m
-}
+func find_min_max(arr [5]int){
+	var min_var int = arr[0]
+	var max_var int = arr[0]
 
-func so_sanh(n int, m int) {
-	if n < m {
-		fmt.Print("less than")
+	for i := 0; i < 5; i++ {
+		if min_var > arr[i] {
+			min_var = arr[i]
+		}
+		if max_var < arr[i] {
+			max_var = arr[i]
+		}
 	}
-	if n > m {
-		fmt.Print("more than")
-	}
-	if n == m {
-		fmt.Print("equal")
-	}
-}
 
+	fmt.Print("Max = ")
+	fmt.Println(max_var)
+	fmt.Print("Min = ")
+	fmt.Println(min_var)
+}
 
 func main() {
-	//num_b := 20
-	//khai báo kiểu rút gọn này chỉ dùng trong hàm main
+	fmt.Println("Hello World!!!")
+	fmt.Println("I found them :v")
+	var arr_a [5]int
+	arr_a[0] = 21
+	arr_a[1] = 41
+	arr_a[2] = 31
+	arr_a[3] = 0
+	arr_a[4] = 99
 
-    fmt.Print(tinh_tong(num_a, num_c))
-	fmt.Println(" Xin chao co chu xin chao cac ban!!!")
-	so_sanh(num_a, num_c)
+	find_min_max(arr_a)
 }
