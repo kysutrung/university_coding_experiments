@@ -6,9 +6,8 @@ import "fmt"
 
 func sum(arr []int) int {
 	tong := 0
-	for meo, gau := range arr {
-		tong += gau
-		fmt.Println(meo)
+	for num_1, num_2 := range arr {
+		tong += num_2 + num_1
 	}
 	return tong
 }
