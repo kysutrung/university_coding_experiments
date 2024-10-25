@@ -35,6 +35,20 @@ void setup() {
   tft.fillRect(170, 140, 40, 40, TFT_BLUE);
 }
 
+int num_1 = 0;
+
 void loop() {
-  // Không cần thực hiện gì trong vòng lặp cho ví dụ này
+  if(num_1 == 0){
+    tft.fillRect(30, 140, 40, 40, TFT_RED);
+    tft.fillRect(100, 140, 40, 40, TFT_GREEN);
+    tft.fillRect(170, 140, 40, 40, TFT_BLUE);
+    num_1 = 1;
+  }
+  else if(num_1 == 1){
+    tft.fillRect(30, 140, 40, 40, TFT_BLUE);
+    tft.fillRect(100, 140, 40, 40, TFT_RED);
+    tft.fillRect(170, 140, 40, 40, TFT_GREEN);
+    num_1 = 0;
+  }
+  delay(100);
 }
