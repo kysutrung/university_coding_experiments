@@ -13,11 +13,18 @@ EN | The repository stored some coding articles and links of projects that Trung
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☠️ Algorism Practice
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🔌 Programs Manager For IOT Device](https://github.com/kysutrung/mudskipper_firmware)
+
 &nbsp;&nbsp;&nbsp;&nbsp;● Projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🔦 Adaptive LED Headlight For Car/Bike (computer vision)](https://github.com/kysutrung/esp32_auto_adapt_headlight)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🧨 Timer Igniter For Fireworks v1.0](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_language_projects/timer_firework_igniter) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🐟 Automatic Fish Tank](https://github.com/kysutrung/the_tankz) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🪴 Smart Flower Pot (IOT)](https://github.com/kysutrung/plant_potz)
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔌 Simple Measurement Devices
 
