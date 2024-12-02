@@ -3,9 +3,8 @@
 ============================================
 1. Quản lý sách                             
 2. Quản lý người dùng                       
-3. Quản lý giao dịch                        
-4. Tìm kiếm                                 
-5. Thoát chương trình                       
+3. Quản lý giao dịch                                                         
+4. Thoát chương trình                       
 ============================================
 Vui lòng nhập lựa chọn của bạn (1-5):
 
