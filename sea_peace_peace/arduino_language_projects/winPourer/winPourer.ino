@@ -1,17 +1,17 @@
-#define CLK 6 
-#define DT 5   
-#define E3F 4
-#define RELAYPIN 7
+#define CLK 6 //chân núm xoay
+#define DT 5 //chân núm xoay
+#define E3F 4 //chân cảm biến vật cản
+#define RELAYPIN 7 //chân bật bơm nước 
 
 
-int counter = 0;      // Biến để lưu giá trị tăng/giảm
-int lastStateCLK;     // Lưu trạng thái trước đó của chân CLK
-int currentStateCLK;  // Trạng thái hiện tại của chân CLK
+int counter = 0;      
+int lastStateCLK;
+int currentStateCLK;
 int e3fState = 0;
 int lastE3FState = 3;
-int soLanRot = 0;
-unsigned long runTime = 0;
-int waitTime = 1500; // chỉnh thời gian chờ trước khi rót
+int soLanRot = 0; //biến lưu số lần rót
+unsigned long runTime = 0; //biến lưu thời gian
+int waitTime = 1500; //chỉnh thời gian chờ trước khi rót
 int pumpInTime = 0;
 
 
