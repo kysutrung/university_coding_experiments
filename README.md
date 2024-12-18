@@ -48,3 +48,9 @@ EN | The repository stored some coding articles and links of projects that Trung
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🎥 Multi Zones Safety Assistant Camera System (computer vision)](https://github.com/kysutrung/yolo_watchdog)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Human Searching Assistant Device For No Service Environments
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+🐹 GO Programing Language
+
+🔵 LUA Programing Language
