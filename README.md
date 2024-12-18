@@ -25,6 +25,11 @@ EN | The repository stored some coding articles and links of projects that Trung
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🪴 Smart Flower Pot (IOT)](https://github.com/kysutrung/plant_potz)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[♨ Sauna Room Monitor (IOT)](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_language_projects/sauna_room_iot_monitor_system)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🍷 Automatic Wine Pourer](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_language_projects/winePourer)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[❤️ Pulse Oximeters](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_language_projects/bpmAndSpOTwo)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔌 Simple Measurement Devices
 
