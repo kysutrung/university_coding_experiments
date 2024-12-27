@@ -3,7 +3,7 @@
 ============================================
 1. Quản lý sách                             
 2. Quản lý người dùng                       
-3. Quản lý giao dịch                                                         
+3. Quản lý giao dịch                                                
 4. Thoát chương trình                       
 ============================================
 Vui lòng nhập lựa chọn của bạn (1-5):
@@ -13,7 +13,7 @@ Vui lòng nhập lựa chọn của bạn (1-5):
 ============================================
 1. Thêm sách mới                            
 2. Xóa sách                                 
-3. Cập nhật thông tin sách                  
+3. Cập nhật thông tin sách  - bỏ                 
 4. Hiển thị danh sách sách                  
 5. Quay lại menu chính                      
 ============================================
