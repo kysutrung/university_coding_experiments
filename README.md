@@ -5,6 +5,13 @@ VN | Kho tổng hợp một số bài code và đường dẫn tới các dự �
 EN | The repository stored some coding articles and links of projects that Trung participated in during his time in university.
 
 ## Table of Contents
+
+🪜 Ladder Logic Programing Projects
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Projects
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 🌊 C/C++ Programing Language Projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Coding Practices
