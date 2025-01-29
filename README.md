@@ -53,4 +53,12 @@ EN | The repository stored some coding articles and links of projects that Trung
 
 🐹 GO Programing Language
 
+&nbsp;&nbsp;&nbsp;&nbsp;● Coding Practices
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗿 Sefl Learning
+
 🔵 LUA Programing Language
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Coding Practices
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗿 Sefl Learning
