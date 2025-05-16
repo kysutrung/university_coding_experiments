@@ -18,7 +18,7 @@ VN | Kho tổng hợp một số bài code và đường dẫn tới các dự �
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Đèn Pha Ô Tô Ma Trận Thông Minh (áp dụng xử lý ảnh)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🔦 Adaptive LED Headlight For Car/Bike (computer vision)](https://github.com/kysutrung/esp32_auto_adapt_headlight)
+[🔦 Adaptive LED Headlight For Car/Bike (computer vision)](https://github.com/kysutrung/esp32_auto_adapt_headlight)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bộ Hẹn Giờ Bắn Cho Pháo Hoa Z121
 
