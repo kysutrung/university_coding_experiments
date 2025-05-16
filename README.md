@@ -24,12 +24,6 @@ VN | Kho tổng hợp một số bài code và đường dẫn tới các dự �
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔌 Thiết Kế Thiết Bị Đo Lường
 
-&nbsp;&nbsp;&nbsp;&nbsp;● Luyện Tập
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤡 Thiết Kế Ứng Dụng Đơn Giản Chạy Trên Command Window
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☠️ Luyện Tập Giải Thuật
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🔌 Thiết Kế Trình Quản Lý Chương Trình Cho Kit Lập Trình M5Stack](https://github.com/kysutrung/mudskipper_firmware)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
