@@ -16,7 +16,8 @@ VN | Kho tổng hợp một số bài code và đường dẫn tới các dự �
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Projects | Dự Án
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🔦 Adaptive LED Headlight For Car/Bike (computer vision) | Đèn Pha Ô Tô Ma Trận Thông Minh (áp dụng xử lý ảnh)](https://github.com/kysutrung/esp32_auto_adapt_headlight)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Đèn Pha Ô Tô Ma Trận Thông Minh (áp dụng xử lý ảnh)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🔦 Adaptive LED Headlight For Car/Bike (computer vision)](https://github.com/kysutrung/esp32_auto_adapt_headlight)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🧨 Timer Igniter For Fireworks v1.0](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_language_projects/timer_firework_igniter) 
 
