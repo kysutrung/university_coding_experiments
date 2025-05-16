@@ -20,17 +20,31 @@ VN | Kho tổng hợp một số bài code và đường dẫn tới các dự �
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🔦 Adaptive LED Headlight For Car/Bike (computer vision)](https://github.com/kysutrung/esp32_auto_adapt_headlight)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bộ Hẹn Giờ Bắn Cho Pháo Hoa Z121
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🧨 Timer Igniter For Fireworks v1.0](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_language_projects/timer_firework_igniter) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bộ Điều Khiển Bể Cá Cảnh Tự Động
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🐟 Automatic Controller For Fish Tank](https://github.com/kysutrung/the_tankz) 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bộ Điều Khiển Vườn Cây Tự Động IOT
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🪴 Smart Flower Pot (IOT)](https://github.com/kysutrung/plant_potz)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bộ Giám Sát An Toàn Phòng Tắm Xông Hơi Thông Minh IOT
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[♨ Sauna Room Monitor (IOT)](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_language_projects/sauna_room_iot_monitor_system)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Máy Rót Rượu Tự Động
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🍷 Automatic Wine Pourer](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_language_projects/winePourer)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Máy Đo Nồng Độ Oxi Và Nhịp Tim
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[❤️ Pulse Oximeters](https://github.com/kysutrung/university_coding_experiments/tree/main/sea_peace_peace/arduino_language_projects/bpmAndSpOTwo)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thiết Bị Đo Lường Các Loại
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔌 Simple Measurement Devices
 
