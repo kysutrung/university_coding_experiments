@@ -6,12 +6,6 @@ VN | Kho tổng hợp một số bài code và đường dẫn tới các dự �
 
 ## Nội Dung Thí Nghiệm
 
-🪜 Ngôn Ngữ Lập Trình Ladder Logic
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Dự Án
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 🌊 C/C++ Programing Language Projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Dự Án
@@ -42,35 +36,15 @@ VN | Kho tổng hợp một số bài code và đường dẫn tới các dự �
 
 🐍 Python Programing Language
 
-&nbsp;&nbsp;&nbsp;&nbsp;● Coding Practices
+&nbsp;&nbsp;&nbsp;&nbsp;● Dự Án
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗿 Sefl Learning
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🎥 YOLO WatchDog - Thiết Kế Hệ Thống Giám Sát An Toàn Đa Vùng Sử Dụng Trí Tuệ Nhân Tạo](https://github.com/kysutrung/yolo_watchdog)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😺 From Bro Code 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🎵 Thiết Kế Nhạc Cụ Điện Tử - Bàn DJ Controller](https://github.com/kysutrung/customize_rekordbox_controller)
 
-&nbsp;&nbsp;&nbsp;&nbsp;● Projects
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🎥 YOLO WatchDog - Multi Zones Safety Assistant Camera System (computer vision)](https://github.com/kysutrung/yolo_watchdog)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🎵 MIDI Controller](https://github.com/kysutrung/customize_rekordbox_controller)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Human Searching Assistant Device For No Service Environments
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Thiết Kế Thiết Bị Định Vị Hỗ Trợ Tìm Người Trong Môi Trường Không Có Dịch Vụ Điện Thoại
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-🐹 GO Programing Language
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Coding Practices
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗿 Sefl Learning
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-🔵 LUA Programing Language
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Coding Practices
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗿 Sefl Learning
 
 
 EN | The repository stored some coding articles and links of projects that Trung participated in during his time in university.
